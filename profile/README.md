@@ -1,12 +1,10 @@
-https://github.com/DuckDuckGooseBV/Tutis
+# DuckDuckGoose
+Welcome to the organisation profile of DuckDuckGooseBV!
 
-<!--
+DuckDuckGoose is a deepfake detection startup on a mission to create a digital environment where we still can believe what we perceive. Through advances in artificial intelligence and computer vision, we are making it possible to detect deepfakes in an explainable manner. 
 
-**Here are some ideas to get you started:**
+You can find our website [here](https://www.duckduckgoose.ai/)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## For members of this organisation
+All of the repositories are hidden unless you are a member of this organisation.
+You can find an overview of all the repositories and the projects they belong to [here](https://github.com/DuckDuckGooseBV/Repositories-and-Organisation)
