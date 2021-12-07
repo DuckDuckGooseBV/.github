@@ -7,4 +7,4 @@ You can find our website [here](https://www.duckduckgoose.ai/)
 
 ## For members of this organisation
 All of the repositories are hidden unless you are a member of this organisation.
-You can find an overview of all the repositories and the projects they belong to [here](https://github.com/DuckDuckGooseBV/Project-organisation)
+You can find an overview of all the repositories and the projects they belong to [here](https://github.com/DuckDuckGooseBV/Project-organisation/wiki)
